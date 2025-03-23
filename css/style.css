@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #F3BD00;
+    --primary: #4c91d4;
     --secondary: #757575;
     --light: #F3F6F8;
-    --dark: #0C2B4B;
+    --dark: #757575;
 }
 
 .py-6 {
@@ -339,7 +339,7 @@
 }
 
 .copyright {
-    background: #092139;
+    background: white;
 }
 
 .copyright a {
